@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "バニラ",
+  "base_artist": "きゃない",
+  "createdAt": "2025-12-17T05:19:14.430820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バニラ",
+      "artist": "楠木 ともり",
+      "has_synced": false,
+      "path": "select/01_バニラ_楠木_ともり.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バニラ",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/02_バニラ_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バニラ - Live at 豊洲PIT 2021.12.22",
+      "artist": "楠木 ともり",
+      "has_synced": true,
+      "path": "select/03_バニラ_-_Live_at_豊洲PIT_2021.12.22_楠木_ともり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バニラ",
+      "artist": "Izumi Tachibana",
+      "has_synced": false,
+      "path": "select/04_バニラ_Izumi_Tachibana.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バニラ",
+      "artist": "蒼山幸子",
+      "has_synced": true,
+      "path": "select/05_バニラ_蒼山幸子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バニラ",
+      "artist": "きゃない",
+      "has_synced": false,
+      "path": "select/pl_01_バニラ_きゃない.txt"
+    }
+  ]
+}
